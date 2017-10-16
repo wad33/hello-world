@@ -1,2 +1,3 @@
 # hello-world
-test it
+test it 
+I am new to Git.
